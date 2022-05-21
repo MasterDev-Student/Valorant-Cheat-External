@@ -5,7 +5,7 @@ VALORANT EXTERNAL RELEASE C++ / AIMBOT / ESP / SPOOFER / DRIVER
 
 ***
 
-### 📌・   DISCORD SHOP : [Fate Univers] (https://discord.gg/S2NxQRvsvn) 
+### 📌・   DISCORD SHOP : [Fate Univers] (https://discord.gg/YaaFUKHw34) 
 
 * `👋 SELL CHEATING PRIVATE / SPOOFER / SOURCE CODE / ETC `
 * `✔️ UPDATE FREE & LIFETIME & UNDETECTED & BYPASS DRIVER , INJECTOR `
