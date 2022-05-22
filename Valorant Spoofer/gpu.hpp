@@ -1,6 +1,6 @@
 #pragma once
 #include "util.hpp"
-#include "log.hpp"
+#include "log.hpp" // test
 
 namespace n_gpu
 {
